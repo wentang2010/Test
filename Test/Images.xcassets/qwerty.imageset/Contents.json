@@ -1,0 +1,33 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "3-part-horizontal",
+        "center" : {
+          "mode" : "fill",
+          "width" : 35
+        },
+        "capInsets" : {
+          "right" : 215,
+          "left" : 6
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "left_side_clear_cache.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "left_side_clear_cache@2x.png"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
